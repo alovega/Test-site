@@ -45,7 +45,7 @@ a, [type="submit"]{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url(Test-site/img/background.jpeg);
+    background-image: url(img/background.jpeg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover; 
